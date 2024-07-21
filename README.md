@@ -1,2 +1,4 @@
-# PRODIGY_DS_01_Siddhi_Sawant
-This repository create during  working as an intern at prodigy infotech.
+# PRODIGY Infotech Data Science Internship Task1
+Task: Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
+Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
